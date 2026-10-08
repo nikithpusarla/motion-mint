@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Motion Mint",
+  "description": "Mint screen time by completing verified physical and mental exercises with real-time tracking and blocking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
